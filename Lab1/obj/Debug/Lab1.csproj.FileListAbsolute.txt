@@ -1,0 +1,9 @@
+C:\Users\Lomre\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Lomre\source\repos\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Lomre\source\repos\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Lomre\source\repos\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Lomre\source\repos\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Lomre\source\repos\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Lomre\source\repos\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\Lomre\source\repos\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Lomre\source\repos\Lab1\Lab1\obj\Debug\Lab1.pdb
